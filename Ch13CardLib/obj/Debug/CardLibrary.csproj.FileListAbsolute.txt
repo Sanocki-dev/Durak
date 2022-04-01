@@ -1,0 +1,34 @@
+C:\Users\Mike\OneDrive\OOP\DurakGame\Ch13CardLib\bin\Debug\CardLibrary.dll
+C:\Users\Mike\OneDrive\OOP\DurakGame\Ch13CardLib\bin\Debug\CardLibrary.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGame\Ch13CardLib\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive\OOP\DurakGame\Ch13CardLib\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\Mike\OneDrive\OOP\DurakGame\Ch13CardLib\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\Mike\OneDrive\OOP\DurakGame\Ch13CardLib\obj\Debug\CardLibrary.dll
+C:\Users\Mike\OneDrive\OOP\DurakGame\Ch13CardLib\obj\Debug\CardLibrary.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\Ch13CardLib\bin\Debug\CardLibrary.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\Ch13CardLib\bin\Debug\CardLibrary.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\Ch13CardLib\obj\Debug\CardLibrary.Properties.Resources.resources
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\Ch13CardLib\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\Ch13CardLib\obj\Debug\CardLibrary.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\Ch13CardLib\obj\Debug\CardLibrary.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\Ch13CardLib\bin\Debug\CardLibrary.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\Ch13CardLib\bin\Debug\CardLibrary.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.Properties.Resources.resources
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\Ch13CardLib\bin\Debug\CardLibrary.dll
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\Ch13CardLib\bin\Debug\CardLibrary.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.dll
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+D:\Porfolio Projects\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+D:\Porfolio Projects\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.Properties.Resources.resources
+D:\Porfolio Projects\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+D:\Porfolio Projects\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+D:\Porfolio Projects\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.dll
+D:\Porfolio Projects\DurakGameV2\Ch13CardLib\obj\Debug\CardLibrary.pdb
+D:\Porfolio Projects\DurakGameV2\Ch13CardLib\bin\Debug\CardLibrary.dll
+D:\Porfolio Projects\DurakGameV2\Ch13CardLib\bin\Debug\CardLibrary.pdb

@@ -1,0 +1,42 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+db.lock - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129294&action=Download&authKey=!ABVAMwcrufoONq0
+
+CardBox.csproj.CopyComplete - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129195&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129188&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129187&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129186&action=Download&authKey=!ABVAMwcrufoONq0
+
+db.lock - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129235&action=Download&authKey=!ABVAMwcrufoONq0
+
+db.lock - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129237&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129204&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129203&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129202&action=Download&authKey=!ABVAMwcrufoONq0
+
+DurakUI.csproj.CopyComplete - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129311&action=Download&authKey=!ABVAMwcrufoONq0
+
+FormUIDemo.csproj.CopyComplete - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129258&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129248&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129247&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129246&action=Download&authKey=!ABVAMwcrufoONq0
+
+FormUIDemo.csproj.CopyComplete - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129272&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129262&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129261&action=Download&authKey=!ABVAMwcrufoONq0
+
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - https://onedrive.live.com/?cid=82b660bc0e3dadf4&id=82B660BC0E3DADF4%2129260&action=Download&authKey=!ABVAMwcrufoONq0
+
+
+

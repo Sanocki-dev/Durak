@@ -1,0 +1,78 @@
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\obj\Debug\DurakUI.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\obj\Debug\FormUIDemo.frmAboutForm.resources
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\obj\Debug\FormUIDemo.frmMainForm.resources
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\obj\Debug\DurakUI.Properties.Resources.resources
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\obj\Debug\DurakUI.csproj.GenerateResource.cache
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\bin\Debug\DurakUI.exe.config
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\bin\Debug\DurakUI.exe
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\bin\Debug\DurakUI.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\bin\Debug\CardBox.dll
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\bin\Debug\CardLibrary.dll
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\bin\Debug\CardBox.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\bin\Debug\CardLibrary.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\obj\Debug\DurakUI.csproj.CopyComplete
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\obj\Debug\DurakUI.exe
+C:\Users\Mike\OneDrive\OOP\DurakGame\FormUIDemo\obj\Debug\DurakUI.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\obj\Debug\DurakUI.csprojAssemblyReference.cache
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\obj\Debug\DurakUI.exe
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\obj\Debug\DurakUI.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\bin\Debug\DurakUI.exe.config
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\bin\Debug\DurakUI.exe
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\bin\Debug\DurakUI.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\bin\Debug\CardBox.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\bin\Debug\CardLibrary.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\bin\Debug\CardBox.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\bin\Debug\CardLibrary.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\obj\Debug\DurakUI.Properties.Resources.resources
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\obj\Debug\DurakUI.csproj.GenerateResource.cache
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\obj\Debug\DurakUI.csproj.CopyComplete
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\obj\Debug\FormUIDemo.frmAboutForm.resources
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\FormUIDemo\obj\Debug\FormUIDemo.frmMainForm.resources
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\bin\Debug\DurakUI.exe.config
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\bin\Debug\DurakUI.exe
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\bin\Debug\DurakUI.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\bin\Debug\CardBox.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\bin\Debug\CardLibrary.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\bin\Debug\CardBox.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\bin\Debug\CardLibrary.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.csprojAssemblyReference.cache
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\obj\Debug\FormUIDemo.frmAboutForm.resources
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\obj\Debug\FormUIDemo.frmMainForm.resources
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.Properties.Resources.resources
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.csproj.GenerateResource.cache
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.csproj.CopyComplete
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.exe
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\bin\Debug\DurakUI.exe.config
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\bin\Debug\DurakUI.exe
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\bin\Debug\DurakUI.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\bin\Debug\CardBox.dll
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\bin\Debug\CardLibrary.dll
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\bin\Debug\CardBox.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\bin\Debug\CardLibrary.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.Properties.Resources.resources
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.csproj.GenerateResource.cache
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.csproj.CopyComplete
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.exe
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.frmInstructions.resources
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.frmMainForm.resources
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.frmPlayerSettings.resources
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.csprojAssemblyReference.cache
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.frmInstructions.resources
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.frmMainForm.resources
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.frmPlayerSettings.resources
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.Properties.Resources.resources
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.csproj.GenerateResource.cache
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.csproj.CoreCompileInputs.cache
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.exe
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.pdb
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\bin\Debug\DurakUI.exe.config
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\bin\Debug\DurakUI.exe
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\bin\Debug\DurakUI.pdb
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\bin\Debug\CardBox.dll
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\bin\Debug\CardLibrary.dll
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\bin\Debug\CardBox.pdb
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\bin\Debug\CardLibrary.pdb
+D:\Porfolio Projects\DurakGameV2\FormUIDemo\obj\Debug\DurakUI.csproj.CopyComplete

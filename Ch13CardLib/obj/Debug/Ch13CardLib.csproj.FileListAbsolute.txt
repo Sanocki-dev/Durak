@@ -1,0 +1,12 @@
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch11CardLib\bin\Debug\Ch13CardLib.dll
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch11CardLib\bin\Debug\Ch13CardLib.pdb
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch11CardLib\obj\Debug\Ch13CardLib.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch11CardLib\obj\Debug\Ch13CardLib.dll
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch11CardLib\obj\Debug\Ch13CardLib.pdb
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch13CardLib\obj\Debug\Ch13CardLib.Properties.Resources.resources
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch13CardLib\obj\Debug\Ch13CardLib.csproj.GenerateResource.cache
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\Ch13CardLib\obj\Debug\Ch13CardLib.csprojAssemblyReference.cache

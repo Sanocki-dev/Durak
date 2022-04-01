@@ -1,0 +1,61 @@
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\CardBox\bin\Debug\CardBox.dll
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\CardBox\bin\Debug\CardBox.pdb
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\CardBox\obj\Debug\CardBox.dll
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\CardBox\obj\Debug\CardBox.pdb
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\CardBox\bin\Debug\Ch13CardLib.dll
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\CardBox\bin\Debug\Ch13CardLib.pdb
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+C:\Users\Mike\OneDrive\OOP\Tutorials\Tutorial 7\CardBox\obj\Debug\CardBox.ACardBox.resources
+C:\Users\Mike\OneDrive\OOP\DurakGame\CardBox\bin\Debug\CardBox.dll
+C:\Users\Mike\OneDrive\OOP\DurakGame\CardBox\bin\Debug\CardBox.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGame\CardBox\bin\Debug\CardLibrary.dll
+C:\Users\Mike\OneDrive\OOP\DurakGame\CardBox\bin\Debug\CardLibrary.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGame\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive\OOP\DurakGame\CardBox\obj\Debug\CardBox.ACardBox.resources
+C:\Users\Mike\OneDrive\OOP\DurakGame\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+C:\Users\Mike\OneDrive\OOP\DurakGame\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+C:\Users\Mike\OneDrive\OOP\DurakGame\CardBox\obj\Debug\CardBox.dll
+C:\Users\Mike\OneDrive\OOP\DurakGame\CardBox\obj\Debug\CardBox.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\CardBox\bin\Debug\CardBox.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\CardBox\bin\Debug\CardBox.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\CardBox\bin\Debug\CardLibrary.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\CardBox\bin\Debug\CardLibrary.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\CardBox\obj\Debug\CardBox.ACardBox.resources
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\CardBox\obj\Debug\CardBox.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGame\CardBox\obj\Debug\CardBox.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\CardBox\bin\Debug\CardBox.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\CardBox\bin\Debug\CardBox.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\CardBox\bin\Debug\CardLibrary.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\CardBox\bin\Debug\CardLibrary.pdb
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\CardBox\obj\Debug\CardBox.ACardBox.resources
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\CardBox\obj\Debug\CardBox.dll
+D:\School Files\Semester 4\OOP 4200 Object Oriented Programming\Final\DurakGameV2\CardBox\obj\Debug\CardBox.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\CardBox\bin\Debug\CardBox.dll
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\CardBox\bin\Debug\CardBox.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\CardBox\bin\Debug\CardLibrary.dll
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\CardBox\bin\Debug\CardLibrary.pdb
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\CardBox\obj\Debug\CardBox.ACardBox.resources
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\CardBox\obj\Debug\CardBox.dll
+C:\Users\Mike\OneDrive\OOP\DurakGameV2\CardBox\obj\Debug\CardBox.pdb
+D:\Porfolio Projects\DurakGameV2\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+D:\Porfolio Projects\DurakGameV2\CardBox\obj\Debug\CardBox.ACardBox.resources
+D:\Porfolio Projects\DurakGameV2\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+D:\Porfolio Projects\DurakGameV2\CardBox\obj\Debug\CardBox.csproj.CoreCompileInputs.cache
+D:\Porfolio Projects\DurakGameV2\CardBox\obj\Debug\CardBox.dll
+D:\Porfolio Projects\DurakGameV2\CardBox\obj\Debug\CardBox.pdb
+D:\Porfolio Projects\DurakGameV2\CardBox\bin\Debug\CardBox.dll
+D:\Porfolio Projects\DurakGameV2\CardBox\bin\Debug\CardBox.pdb
+D:\Porfolio Projects\DurakGameV2\CardBox\bin\Debug\CardLibrary.dll
+D:\Porfolio Projects\DurakGameV2\CardBox\bin\Debug\CardLibrary.pdb
+D:\Porfolio Projects\DurakGameV2\CardBox\obj\Debug\CardBox.csproj.CopyComplete
